@@ -1,0 +1,22 @@
+:root {
+    --bg1: #040406;
+    --bg2: #323234;
+    --boxShadow: #010203;
+    --Shadow1: #040406;
+    --Shadow2: #444446;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
