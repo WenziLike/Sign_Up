@@ -21,6 +21,7 @@ body {
     align-items: center;
     justify-content: center;
     background: linear-gradient(135deg, var(--bg1), var(--bg2));
+    font-family: sans-serif;
 }
 
 #container {
@@ -30,7 +31,6 @@ body {
 }
 
 h1 {
-    font-family: sans-serif;
     margin: 32px auto;
     color: #4f7afe;
 }
